@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently a cybersecurity graduate student<br>💬 Ask me about HTML, CSS, JS, MySQL, Python etc..
+🌱 Currently a cybersecurity graduate student<br>💬 Ask me about HTML, CSS, JS, MySQL, Python etc..
 
 
 ## 🌐 Socials:
